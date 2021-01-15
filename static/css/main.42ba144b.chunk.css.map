@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,YACE,iBAAkB,CAClB,gBAAiB","file":"main.42ba144b.chunk.css","sourcesContent":["// styles go here\n.clock__btn {\n  line-height: 1.5em;\n  margin-right: 5px;\n}\n"]}
